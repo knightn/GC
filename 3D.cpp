@@ -1,3 +1,5 @@
+Q7. Write a program to apply various 3D transformations on a 3D object and then apply parallel and perspective projection on it.
+
 #include <iostream>
 #include <direct.h>
 #include <stdio.h>
